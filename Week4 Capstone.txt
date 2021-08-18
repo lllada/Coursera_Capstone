@@ -1,4 +1,4 @@
-Introduction: Business Problem ¶
+Introduction: Business Problem
 In this project we will try to find an optimal location for a restaurant. Specifically, this report will be targeted to stakeholders interested in opening an Italian restaurant in Shanghai, China.
 
 Since there are lots of restaurants in Berlin we will try to detect locations that are not already crowded with restaurants. We are also particularly interested in areas with no Italian restaurants in vicinity. We would also prefer locations as close to city center as possible, assuming that first two conditions are met.
@@ -19,4 +19,4 @@ Following data sources will be needed to extract/generate the required informati
 
 centers of candidate areas will be generated algorithmically and approximate addresses of centers of those areas will be obtained using Nominatim reverse geocoding
 number of restaurants and their type and location in every neighborhood will be obtained using Foursquare API
-coordinate of Shanghai center will be obtained using Nominatim geocoding of well known Shanghai location (Renmin Guangchang
+coordinate of Shanghai center will be obtained using Nominatim geocoding of well known Shanghai location (Renmin Guangchang)
